@@ -9,7 +9,7 @@ You can find Filips Angular code here: https://github.com/filipbech/umbdkfest14-
 
 
 This repository contains
-===========
+----------------
 
 + /web/ - Umbraco 7 installation
 + /code/ - Code-project handling all logic (most important code is in /code/Controllers/NewsApiController.cs)
@@ -29,5 +29,6 @@ Links
 =============
 
 JSON View for Chrome: https://chrome.google.com/webstore/detail/jsonview/
+
 NuGet package for handling response from WebApi: https://www.nuget.org/packages/Skybrud.WebApi.Json/
 
